@@ -2,7 +2,14 @@
     "name": "disable-default-keybindings",
     "displayName": "Disable default keybindings",
     "description": "Disable all default keybindings",
+    "publisher": "AlexeyFilich",
     "version": "0.0.1",
+    "preview": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlexeyFilich/disable-default-keybindings.git"
+    },
+    "icon": "icon.jpg",
     "engines": {
         "vscode": "^1.47.0"
     },
